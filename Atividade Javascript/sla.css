@@ -1,0 +1,185 @@
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+   
+}
+
+body {
+    background-color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+    font: 400 24px  black;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.box1 {
+    position: absolute;
+    height: 360px;
+    width: 1440px;
+    background: linear-gradient(#ff0000, #03ffd9);
+}
+.box2 {
+    position: absolute;
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    top: 80px;
+    left: 80px;
+    border-radius: 5px;
+}
+.box33 {
+    position: absolute;
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    top: 80px;
+    left: 350px;
+    border-radius: 5px;
+}
+.box4 {
+    position: absolute;
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    top: 80px;
+    left: 620px;
+    border-radius: 5px;
+}
+.box5 {
+    position: absolute;
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    top: 80px;
+    left: 890px;
+    border-radius: 5px;
+}
+.box6 {
+    position: absolute;
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    top: 80px;
+    left: 1160px;
+    border-radius: 5px;
+}
+.img1 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 100px;
+    left: 130px;
+}
+.img2 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 100px;
+    left: 400px;
+}
+.img3 {
+    position: absolute;
+    width: 160px;
+    height: 100px;
+    top: 100px;
+    left: 640px;
+}
+.img4 {
+    position: absolute;
+    width: 130px;
+    height: 90px;
+    top: 110px;
+    left: 925px;
+}
+.img5 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 100px;
+    left: 1210px;
+}
+.circulo {
+    position: absolute;
+    top: 205px;
+    left: 145px;
+}
+.quadrado {
+    position: absolute;
+    top: 205px;
+    left: 405px;
+}
+.retangulo {
+    position: absolute;
+    top: 205px;
+    left: 675px;
+}
+.trapezio {
+    position: absolute;
+    top: 205px;
+    left: 945px;
+}
+.triangulo {
+    position: absolute;
+    top: 205px;
+    left: 1215px;
+}
+.texto1 a {
+    color: black;
+}
+.box2:hover {
+    position: absolute;
+    background-color: white;
+    width: 215px;
+    height: 215px;
+    top: 72px;
+    left: 72px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px -2px black;
+}
+.box33:hover {
+    position: absolute;
+    background-color: white;
+    width: 215px;
+    height: 215px;
+    top: 72px;
+    left: 342px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px -2px black;
+}
+.box4:hover {
+    position: absolute;
+    background-color: white;
+    width: 215px;
+    height: 215px;
+    top: 72px;
+    left: 612px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px -2px black;
+}
+.box5:hover {
+    position: absolute;
+    background-color: white;
+    width: 215px;
+    height: 215px;
+    top: 72px;
+    left: 882px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px -2px black;
+}
+.box6:hover {
+    position: absolute;
+    background-color: white;
+    width: 215px;
+    height: 215px;
+    top: 72px;
+    left: 1152px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px -2px black;
+}
