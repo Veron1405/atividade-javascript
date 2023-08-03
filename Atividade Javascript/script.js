@@ -46,19 +46,3 @@ function calcularAreaCirculo() {
 
   alert("A área do círculo é: " + area.toFixed(2));
 }
-
-function exibirInformacao() {
-
-  let informacao = prompt("Digite uma informação:");
-
-  if (informacao === null || informacao.trim() === "") {
-      alert("Você precisa digitar uma informação válida!");
-  } else {
-
-      let elementoParagrafo = document.createElement("p");
-
-      elementoParagrafo.textContent = informacao;
-
-      document.body.appendChild(elementoParagrafo);
-  }
-}
